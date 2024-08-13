@@ -41,5 +41,3 @@ if getgenv().FakePing then
 game:GetService("ReplicatedStorage").PingRem:FireServer(getgenv().Ping)
 end
 end)
-
-print(tostring(math.huge - math.huge))
