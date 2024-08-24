@@ -2,6 +2,6 @@ addscript("Dex Explorer", "rbxassetid://10878052077", "Dex Explorer (For Celery)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/jake1325/Dex/main/dex-loader.lua"))()
 end)
 
-addscript("IYAdmin", "", "Infinite Yield Admin Commands/GUI", function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+addscript("IYAdmin Reborn", "", "A forked infinite yield but better.", function()
+loadstring(game:HttpGet("https://github.com/fuckusfm/infiniteyield-reborn/raw/master/source"))()
 end)
